@@ -3,7 +3,7 @@ from tkinter import messagebox
 import random,os,tempfile,smtplib
 
 #==============================================================================================!
-                                                                                          #FUNCTIONALITY PART:
+                              #FUNCTIONALITY PART:
 #==============================================================================================!
 #-----------------------------------------------------------------!
                               #CLEAR BUTTON:
@@ -303,7 +303,7 @@ def total ():
     totalbill=totalcosmeticprice+totalgroceryprice+totalcolddrinksprice+cosmetictax+grocerytax+colddrinkstax
 
 #==============================================================================================!
-                                                                                                      #GUI PART:
+                                   #GUI PART:
 #==============================================================================================!   
         
 root= Tk()
